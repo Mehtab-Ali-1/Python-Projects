@@ -25,7 +25,7 @@
 # while curr_value < 100:
 
 def Doubleit():
-    user_input = int(input("Enter your number"))
+    user_input = int(input("Enter your number : "))
     while user_input <= 100:
         user_input = 2 * user_input
         print(user_input)
