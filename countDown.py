@@ -18,7 +18,6 @@ def CountDown():
 CountDown();
 # *********************************************************
 array_list :list[int] =[10,9,8,7,6,5,4,3,2,1,0];
-array_list1 = array_list.reverse;
 def CountDown1():
     for i in array_list:
         print(i, end=" ");
